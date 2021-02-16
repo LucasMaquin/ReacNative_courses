@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-        <img  width=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png " alt="React Native Logo"/>
+        <img  width=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.png " alt="React Native Logo"/>
     <h1>React Native Repository</h1>
 </div>
 <br>
@@ -32,7 +32,7 @@
 
 #### Remembering this is a repository made by someone interested in this technology.
 
-<div id='version' align="end"><b>V0.0.1</b></div>
+<div id='version' align="end"><b>V0.0.2</b></div>
 
 
 
