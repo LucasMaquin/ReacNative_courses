@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-        <img  width=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.png " alt="React Native Logo"/>
+        <img  width=400 src="http://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png " alt="React Native Logo"/>
     <h1>React Native Repository</h1>
 </div>
 <br>
