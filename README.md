@@ -1,47 +1,22 @@
 
-<style>
 
-.flag{
+<!-- .flag{
     position: absolute;
     top: 5%;
     right: 4%;
     width: 50px;
     border: 5px solid #2222;
     border-radius: 7px;
-}
+} -->
+<div align="end">
+<img width=60 border="2px solid #d2d2d2" style="border-radius:7px" src="https://revista-images.querobolsa.com.br/revista/post_images/32586/6236f6bfe3ce8db35bdc1cd57ab59842b3958101.jpg?1605793577" alt="Brasil"> 
+</div>
 
-.header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-}
-
-.header img {
-    width: 300px
-}
-
-.header h1 {
-    text-align: center;
-}
-
-#version{
-    float: right;
-}
-
-</style>
-
-<img class="flag" src="https://revista-images.querobolsa.com.br/revista/post_images/32586/6236f6bfe3ce8db35bdc1cd57ab59842b3958101.jpg?1605793577" alt="Brasil">
-
-<div class="header">
-    <a href="https://reactjs.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png " alt="React Native Logo" href="https://reactjs.org/"/>
-    </a>
+<div align="center">
+        <img  width=400 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png " alt="React Native Logo"/>
     <h1>React Native Repository</h1>
 </div>
 <br>
-
----
 
 ## __Repository content__
 ###### This repository was created with the intention of storing all my **history of tutorials**, **courses,** and my learning progress that I am going through. 
@@ -57,7 +32,7 @@
 
 #### Remembering this is a repository made by someone interested in this technology.
 
-<div id='version'><b>V0.0.1</b></div>
+<div id='version' align="end"><b>V0.0.1</b></div>
 
 
 
