@@ -26,7 +26,7 @@
 
 ## __Student__
 ###### I am an **information systems** student at the university and I already have a completed IT technician. I basically work with **HTML**, **CSS** and **javascript** and I want to learn to develop mobile, I believe that the closest technology to javascript is React Native, so I started with it. 
-###### I will be glad if you talk to me to add something to my progress line of studies!
+###### I will be glad if you talk to me to add something to my React Native RoadMap of studies!
 
 <br>
 
